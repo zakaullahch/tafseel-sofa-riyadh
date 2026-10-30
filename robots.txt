@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tafseel-sofa-riyadh.pages.dev/sitemap.xml
+Sitemap: https://tafseel-sofa-riyadh.zakaullahch111222.workers.dev/sitemap.xml
